@@ -1,0 +1,1 @@
+# netcore-generic-host-demo
